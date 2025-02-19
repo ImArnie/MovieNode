@@ -31,5 +31,5 @@ jobs:
         git config --global user.email "djusa1221@gmail.com"
         git config --global user.name "Arnie Ungvary"
         git add .
-        git commit -m "Automated commit by GitHub Actions"
+        git commit -m "Automated committ by GitHub Actions"
         git push https://$GH_TOKEN@github.com/ImArnie/MovieNode.git
