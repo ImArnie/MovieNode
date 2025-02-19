@@ -1,0 +1,19 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Movie website with many features, accounts, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movies",
+    "online",
+    "movies"
+  ],
+  "author": "ImArnieSVK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
