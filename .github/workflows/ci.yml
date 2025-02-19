@@ -30,4 +30,4 @@ jobs:
         git config --global user.name "Arnie Ungvary"
         git add .
         git commit -m "Automated commit by GitHub Actions"
-        git push
+        git push https://gh-token:${{ secrets.GH_TOKEN }}@github.com/ImArnie/MovieNode.git
